@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JohnnyTheTank/angular-youtube-api-factory.git"
+    "url": "git+https://github.com/DanteRPaz/angular-youtube-api-factory"
   },
   "keywords": [
     "angularjs",
